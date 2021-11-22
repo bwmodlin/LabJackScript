@@ -1,3 +1,2 @@
 # LabJackScript
-Used LabJack to send signals to a motor to run tests on an interferometer. 
-```runMotorTest.py```
+```runMotorTest.py``` and ```loadingDataTest.py``` are scripts used to run the tests and open saved ata. The other files are labjack-provided wrappers. 
